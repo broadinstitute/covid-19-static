@@ -1,0 +1,13 @@
+# yamllint disable rule:line-length
+---
+steps:
+
+  - id: get_dbpw
+    name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    args: [
+      'gsutil',
+      'rsync',
+      '-av',
+      'static/',
+      '${_STATIC_BUCKET}'
+    ]
