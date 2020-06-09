@@ -6,7 +6,8 @@ steps:
     args: [
       'gsutil',
       'rsync',
-      '-drv',
+      '-d',
+      '-r',
       'static/',
       'gs://${_STATIC_BUCKET}'
     ]
