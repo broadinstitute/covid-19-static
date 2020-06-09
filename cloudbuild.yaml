@@ -2,12 +2,11 @@
 ---
 steps:
 
-  - id: get_dbpw
-    name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     args: [
       'gsutil',
       'rsync',
-      '-av',
+      '-adv',
       'static/',
-      '${_STATIC_BUCKET}'
+      'gs://${_STATIC_BUCKET}'
     ]
