@@ -4,7 +4,7 @@ This test has not been FDA cleared or approved but has been authorized by FDA un
 
 This test has been authorized only for the detection of nucleic acid from SARS-CoV-2, not for any other viruses or pathogens. 
 
-The test was validated for use with respiratory specimens obtained via nasopharyngeal, oropharyngeal, or nasal swabs in liquid transport media or saline or sent dry. The performance of this test has not been established for other specimens. Specimens collected using other FDA recommended Specimen Collection Materials listed in the FDA COVID-19 Diagnostic Technologies communication (March 26, 2020) are processed with the caveat that they were not all validated for use with this test and the result must be interpreted in this context. 
+The test was validated for use with respiratory specimens obtained via nasopharyngeal, oropharyngeal, or nasal swabs in liquid transport media or saline. Nasal swabs may also be sent dry. The performance of this test has not been established for other specimens. Specimens collected using other FDA recommended Specimen Collection Materials listed in the FDA COVID-19 Diagnostic Technologies communication (March 26, 2020) are processed with the caveat that they were not all validated for use with this test and the result must be interpreted in this context.
 
 Method: RNA is isolated from respiratory specimens in approved media using MagMAX™-96 Viral RNA Isolation Kits (Thermo Fisher Scientific, AMB18365), is reverse transcribed to cDNA, and subsequently amplified in the Applied Biosystems® ViiA7 Real-Time PCR Instrument. This system provides qualitative detection of nucleic acid from SARS-CoV-2. For more detailed information on the test methods and limitations see https://covid-19-test-info.broadinstitute.org/
 
